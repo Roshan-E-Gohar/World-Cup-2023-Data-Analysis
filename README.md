@@ -12,7 +12,7 @@ Team Performance Analysis:
 - Analyze runs scored, wickets taken, and batting/bowling styles.
 - Identify top-performing teams and their strengths.
 
-- 
+  
 2. Player Performance Analysis:
 
   
@@ -20,7 +20,7 @@ Team Performance Analysis:
 - Identify leading run-scorers and wicket-takers.
 - Assess the impact of players on their team's performance.
 
-- 
+  
 3. Opposition and Ground Analysis:
 
   
@@ -28,14 +28,14 @@ Team Performance Analysis:
 - Examine performance variations across different playing grounds.
 - Identify if there are specific teams or players that excel in certain conditions.
 
-- 
+  
 4. Temporal Analysis:
 
   
 - Study performance trends over time, considering start dates and overs played.
 - Identify any temporal patterns or changes in team and player performance.
 
-- 
+  
 <img width="365" alt="mllll" src="https://github.com/Roshan-E-Gohar/World-Cup-2023-Data-Analysis/assets/133816562/1e5a8fc8-b8f1-416f-b44c-43483f7f4202">
 
 
